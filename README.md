@@ -2,8 +2,23 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=fffcb3&height=180&text=yangyangeeee's%20Github&animation=blinking&fontColor=000000&fontSize=60" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 😻 About-me </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> 덕성여자대학교 (2024.03.~ )</li>데이터사이언스학과 / 디지털소프트웨어공학부 24학번 </div> 
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 😻 About-me </h2>  
+
+<div style="font-weight: 800; font-size: 15px; text-align: left; color: #282d33;">
+
+<strong>덕성여자대학교 (2024.03. ~ )<br>
+데이터사이언스학과 / 디지털소프트웨어공학부 24학번<br></strong><br>
+
+- 멋쟁이사자처럼 13기 (2025.03. ~ 2025.12.)<br>
+프론트엔드 아기사자<br>
+- UMC 9기 (2025.09. ~ 2026.02)<br>
+웹프론트 챌린저<br>
+- 멋쟁이사자처럼 14기 (2026.01. ~)<br>
+프론트엔드 운영진<br>
+- UMC 10기 (2026.03. ~)<br>
+웹프론트 챌린저
+
+</div>
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Currently Studying </h2>
@@ -26,12 +41,9 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2>
     <div style="text-align: left;"> <a href=> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link="> </a>
          <a href=mailto:> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:"> </a>
-          </div>  <br> 
-    <div style="text-align: left;"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyangyangeeee%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
-       </div> 
+          </div>
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=yangyangeeee&custom_title=yangyangeeee's Github Stat&bg_color=180,000000,&title_color=000000&text_color=000000"
-        />  </div> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;">   </div> 
     </div>
     
