@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://github.com/user-attachments/assets/be5331a0-9366-4e80-80b6-9c2057ba40b8" />
+    <img src="https://github.com/user-attachments/assets/08b77de0-96e3-4cc8-8247-3ff3299ed82b" width="300"/>
     </div>
     <div style="text-align: left;"> 
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 😻 About-me </h2>  
