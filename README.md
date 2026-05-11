@@ -47,5 +47,6 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;">   </div> 
     </div>
     
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yangyangeeee&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yangyangeeee&layout=compact)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yangyangeeee&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/yangyangeeee)
+
+[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=yangyangeeee&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true)](https://github.com/yangyangeeee)
