@@ -66,8 +66,7 @@
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white">
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white">
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white">
-<img src="https://img.shields.io/badge/Visual Paradigm-FF6A00?style=flat">
-<br/>
+<img src="https://img.shields.io/badge/Visual%20Paradigm-CC3333?style=flat&logo=visualparadigm&logoColor=white"><br/>
 
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white">
