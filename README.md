@@ -86,7 +86,7 @@
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;">   </div> 
     </div>
-    
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yangyangeeee&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/yangyangeeee)
 
-[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=yangyangeeee&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true)](https://github.com/yangyangeeee)
+[![yangyangeeee's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=yangyangeeee)](https://github.com/yangyangeeee)
+    
+[![GitGarden](https://gitgarden.marshallku.dev/?user_name=yangyangeeee)](https://github.com/marshallku/gitgarden)
